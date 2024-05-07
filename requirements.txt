@@ -16,4 +16,8 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
+requests_mock
+FuzzyTM
+clyent==1.2.1
+fsspec==2023.10.0
 -e .
